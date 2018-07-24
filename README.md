@@ -8,7 +8,7 @@ The Project contains two simple application
   -  Basic CRUD APIs for json payload
   -  Implemented Authentication using OAuth
 
-2.  ** QueueConfiguration**
+2.  **QueueConfiguration**
 
   - Two queue configuration to dump redis data to elastic search engine
  
